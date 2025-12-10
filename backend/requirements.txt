@@ -4,4 +4,4 @@ python-multipart
 requests
 pydantic
 elasticsearch
-
+sentence-transformers
